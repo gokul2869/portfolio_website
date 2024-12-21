@@ -13,30 +13,26 @@ This repository is a showcase of my work, skills, and projects in "Web Developme
 ---
 
 ## 🌟 Featured Projects  
-🚗 Project 1: Car Rental Landing Website
-🌟 Features:
-  Dark and Light Theme: Toggle seamlessly between dark and light modes for a better user experience.
-  Responsive Design: Optimized for all screen sizes, providing a consistent experience across devices.
-  Booking Form: Includes a user-friendly form for car reservations, integrated with a backend endpoint for functionality.
-  Fleet Showcase: Displays various vehicles available for rent, allowing users to explore options easily.
-  Parallax Effect: Adds a dynamic visual experience to the Hero and About Us sections.
-🛠️ Tech Stack:
-  HTML5 & CSS3: For the front-end structure and styling.
-  JavaScript: Enhancing interactivity and dynamic theme switching.
-  Backend Integration: To enable form functionality (future implementation or existing API endpoint).
+**🚗 Project 1: Car Rental Landing Website**
+🌟 **Features:**
+  --**Dark and Light Theme:** Toggle seamlessly between dark and light modes for a better user experience.
+  --**Responsive Design:** Optimized for all screen sizes, providing a consistent experience across devices.
+  --**Booking Form:** Includes a user-friendly form for car reservations, integrated with a backend endpoint for functionality.
+  --**Fleet Showcase:** Displays various vehicles available for rent, allowing users to explore options easily.
+  --**Parallax Effect:** Adds a dynamic visual experience to the Hero and About Us sections.
+**🛠️ Tech Stack:**
+  --**HTML5 & CSS3: **For the front-end structure and styling.
+  --**JavaScript:** Enhancing interactivity and dynamic theme switching.
+  --**Backend Integration:** To enable form functionality (future implementation or existing API endpoint).
 
-🌊 Project 2: Whooper Wave Landing Page
+🌊** Project 2: Whooper Wave Landing Page**
 ✨ What We're Looking For:
-  Theme: Bold and modern.
-  Vibe: Fun and energetic.
-  Design Elements:
-    Incorporates a "wave" to represent the name visually.
-    Highlights the word "Whooper" with stylish and clean typography.
-    Uses a scalable logo that works across different screen sizes.
-🎨 Colors:
-  Primary: Gold (#FFD700)
-  Secondary: Dark Gray (#1F1F1F)
-
+  --**Theme:** Bold and modern.
+  --**Vibe:** Fun and energetic.
+  --**Design Elements:**
+    --Incorporates a "wave" to represent the name visually.
+    --Highlights the word "Whooper" with stylish and clean typography.
+    --Uses a scalable logo that works across different screen sizes.
 ---
 
 ## 🛠️ Skills  
