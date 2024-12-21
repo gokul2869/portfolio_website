@@ -19,7 +19,8 @@ This repository is a showcase of my work, skills, and projects in "Web Developme
   - **Responsive Design:** Optimized for all screen sizes, providing a consistent experience across devices.
   - **Booking Form:** Includes a user-friendly form for car reservations, integrated with a backend endpoint for functionality.
   - **Fleet Showcase:** Displays various vehicles available for rent, allowing users to explore options easily.
-   -**Parallax Effect:** Adds a dynamic visual experience to the Hero and About Us sections.
+  - **Parallax Effect:** Adds a dynamic visual experience to the Hero and About Us sections.
+    
 **🛠️ Tech Stack:**
   - **HTML5 & CSS3:** For the front-end structure and styling.
   - **JavaScript:** Enhancing interactivity and dynamic theme switching.
