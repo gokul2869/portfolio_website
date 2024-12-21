@@ -26,7 +26,7 @@ This repository is a showcase of my work, skills, and projects in "Web Developme
   - **Backend Integration:** To enable form functionality (future implementation or existing API endpoint).
 
 🌊** Project 2: Whooper Wave Landing Page**
-✨ What We're Looking For:
+- ✨ What We're Looking For:
   - **Theme:** Bold and modern.
   - **Vibe:** Fun and energetic.
   - **Design Elements:**
@@ -38,7 +38,7 @@ This repository is a showcase of my work, skills, and projects in "Web Developme
 ## 🛠️ Skills  
 Here’s a snapshot of my skill set:  
 - **Languages**:  Python, JavaScript  
-- **Frameworks**: [e.g., React, Django, etc.]  
+- **Frameworks**: Angular,js and Bootstrap 
 - **Tools**: Git, Figma, Canva
 - **Other Expertise**:Problem-solving, Agile methodology
 
