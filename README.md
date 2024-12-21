@@ -23,7 +23,7 @@ This repository is a showcase of my work, skills, and projects in "Web Developme
 **🛠️ Tech Stack:**
   - **HTML5 & CSS3:** For the front-end structure and styling.
   - **JavaScript:** Enhancing interactivity and dynamic theme switching.
-  - 
+---
 **🌊 Project 2: Whooper Wave Landing Page**
 - ✨ What We're Looking For:
   - **Theme:** Bold and modern.
