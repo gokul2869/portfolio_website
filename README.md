@@ -23,16 +23,15 @@ This repository is a showcase of my work, skills, and projects in "Web Developme
 **🛠️ Tech Stack:**
   - **HTML5 & CSS3:** For the front-end structure and styling.
   - **JavaScript:** Enhancing interactivity and dynamic theme switching.
-  - **Backend Integration:** To enable form functionality (future implementation or existing API endpoint).
-
-🌊** Project 2: Whooper Wave Landing Page**
+  - 
+**🌊 Project 2: Whooper Wave Landing Page**
 - ✨ What We're Looking For:
   - **Theme:** Bold and modern.
   - **Vibe:** Fun and energetic.
   - **Design Elements:**
     - Incorporates a "wave" to represent the name visually.
     - Highlights the word "Whooper" with stylish and clean typography.
-    -Uses a scalable logo that works across different screen sizes.
+    - Uses a scalable logo that works across different screen sizes.
 ---
 
 ## 🛠️ Skills  
